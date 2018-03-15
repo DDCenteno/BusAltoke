@@ -21,7 +21,7 @@
 * Feedback actual de usuarios sobre la aplicación.
 ![FeedbackApp](assets/documents/feedbackuser.png)
 * Entrevistas
-* [Encuestas](https://docs.google.com/spreadsheets/d/1oYhzy1EKBkhn_p6WH7NTPPfQ9eA5YnH5FnrmsGDynGo/edit#gid=782536115) 
+* Encuestas [Resulados de encuestas](https://docs.google.com/spreadsheets/d/1oYhzy1EKBkhn_p6WH7NTPPfQ9eA5YnH5FnrmsGDynGo/edit#gid=782536115) 
 
 ## Síntesis y definición
 * Affinity map

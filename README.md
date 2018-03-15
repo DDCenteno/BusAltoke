@@ -26,3 +26,8 @@ ___
 ### Síntesis y definición
 ___
 * Affinity map
+
+### Ideación
+* User persona
+
+![jhon](assets/documents/userpersona.png)

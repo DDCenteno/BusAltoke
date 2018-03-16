@@ -10,12 +10,35 @@
  ![Aplicación original](assets/documents/origin.png)
 
  ## Descubrimiento e investigación
- 
+ ### Analisís del estado actual
+ - **En base a la empresa**:  GEP es un grupo de empresas peruanas de transporte público en Lima, donde la integran Sfasa40, Las Flores18 y  Realidad Express03, la cual tiene como objetivo ofrecer un servicio de calidad.
+ GEP aporta muy aparte del transporte al usuario, con un branding sobre ser ecoamigable. Ofrece a los usuarios poder utilizar una tarjeta recargable para el pago del pasaje en sus lineas o dando la opción de hacerlo aún sin tarjeta(en otras palabras pagando ni bien sube al transporte).
+
+ - **En base al usuario**: Un pequeño background de mi - la usuaria y otros que dan su feedback al probar la aplicación.
+    * La edad base es de entre 20 - 30 años los que hacen uso de la aplicación.
+    * La gran mayoria no tiene la tarjeta de la empresa y paga directamente al subir.
+    * Necesidad: Poder saber a que hora el bus llega al paradero con exactitud y que muestre un seguimiento de la ruta del bus.
+    * Necesidad opcional: Poder tener un medio de acceso a sugerencuas y quejas, saber con exactitud mas información sobre las tarjetas y recargas.
+
  #### Benchmarking
- 
- * Metropolitano App
- * Transit App
- * NextBus App
+
+ ![benchm](assets/documents/benchmarking.png)
+#### BusAltoke Arquitectura de información
+Estructura de la información en base al proceso actual de la aplicación:
+* Selección de paradero son funciones repetidas.
+
+![EI](assets/documents/eInformacion.jpg)
+
+* Problemas Principales:
+    - Falta de contenido sobre las rutas en las que se dividen.
+    - Falta de seguimiento de rutas de los buses.
+    - Flujo confuso de uso.
+    - Funcionalidad confusa al intentar ver los paraderos y los horarios de llegada del bus.
+#### Journey Map
+A partir del journey map se indentificará y se creará estrategias para los puntos clave.
+
+* Viaje
+![viaje](assets/documents/JMViaje.jpg)
 
 #### User research
 * Feedback actual de usuarios sobre la aplicación.
@@ -32,3 +55,7 @@
 * User persona
 
 ![jhon](assets/documents/userpersona.png)
+
+### Nueva propuesta de arquitectura de información
+
+![newAi](assets/documents/newAI.jpg)

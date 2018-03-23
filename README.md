@@ -1,6 +1,11 @@
 # BusAltoke
 'BusAltoke' es una aplicación móvil de la empresa 'GEP', donde ayuda a los usuarios que usan de manera constante su servicio a saber la ruta que tienen sus buses y en que momento llegan a la parada indicada.
 
+![image](https://user-images.githubusercontent.com/30356026/37829566-7accb672-2e6d-11e8-8ccc-df0306fa06d3.png)
+
+
+## Desarrollado para Laboratoria
+
 ## Puntos clave:
 * Al ya tener una aplicación móvil donde ya indica sobre lo anteriormente mencionado, esta no es facil de entender para los usuarios.
 * Se realizará un rediseño del flujo de compra de pasaje y seguimiento de rutas del bus donde se encuentra el usuario.
@@ -43,7 +48,7 @@ A partir del journey map se indentificará y se creará estrategias para los pun
 #### User research
 * Feedback actual de usuarios sobre la aplicación.
 ![FeedbackApp](assets/documents/feedbackuser.png)
-* Entrevistas
+* Entrevistas [Link Drive](https://drive.google.com/open?id=1vnaxnEwmsOkipW4tgi-eYfAWQHFyk-Ex)
 * Encuestas [Resultados de encuestas](https://docs.google.com/spreadsheets/d/1oYhzy1EKBkhn_p6WH7NTPPfQ9eA5YnH5FnrmsGDynGo/edit#gid=782536115) 
 
 ## Síntesis y definición
@@ -59,3 +64,20 @@ A partir del journey map se indentificará y se creará estrategias para los pun
 ### Nueva propuesta de arquitectura de información
 
 ![newAi](assets/documents/newAI.jpg)
+
+### Prototipo en Baja Fidelidad
+
+![PBF](assets/documents/prototipoBF.jpg)
+
+### Prototipo en Alta Fidelidad
+
+![PAF](assets/documents/mapaPAF.JPG)
+* [Figma](https://www.figma.com/file/KjjHy8RNSg7342W5d0oCML6w/BusAltoke)
+* [Marvel](https://marvelapp.com/4j9g8h5)
+
+### Feedback
+
+* En destinos guardados, que tambien guarde el origen (por ejemplo: casa).
+* Recargar la tarjeta que muestre la forma en como hacerlo.
+* Recargar, mostrar lugares en donde se puede hacer.
+* Mostrar las rutas completas de cada linea.

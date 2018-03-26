@@ -49,7 +49,7 @@ A partir del journey map se indentificará y se creará estrategias para los pun
 * Feedback actual de usuarios sobre la aplicación.
 ![FeedbackApp](assets/documents/feedbackuser.png)
 * Entrevistas [Link Drive](https://drive.google.com/open?id=1vnaxnEwmsOkipW4tgi-eYfAWQHFyk-Ex)
-* Encuestas [Resultados de encuestas](https://docs.google.com/spreadsheets/d/1oYhzy1EKBkhn_p6WH7NTPPfQ9eA5YnH5FnrmsGDynGo/edit#gid=782536115) 
+* Encuestas [Resultados de encuestas](https://docs.google.com/spreadsheets/d/1oYhzy1EKBkhn_p6WH7NTPPfQ9eA5YnH5FnrmsGDynGo/edit) 
 
 ## Síntesis y definición
 * Affinity map

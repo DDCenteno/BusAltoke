@@ -4,9 +4,11 @@
 ![image](https://user-images.githubusercontent.com/30356026/37910130-633fdcc0-30d2-11e8-8dda-d2de24f3f8d4.png)
 
 
-## Desarrollado para Laboratoria
+## Desarrollado para
 
-## Puntos clave:
+[Laboratoria](http://www.laboratoria.la/)
+
+### Puntos clave:
 * Al ya tener una aplicación móvil donde ya indica sobre lo anteriormente mencionado, esta no es facil de entender para los usuarios.
 * Se realizará un rediseño del flujo de compra de pasaje y seguimiento de rutas del bus donde se encuentra el usuario.
 
@@ -14,7 +16,7 @@
  
  ![Aplicación original](assets/documents/origin.png)
 
- ## Descubrimiento e investigación
+ ### Descubrimiento e investigación
  ### Analisís del estado actual
  - **En base a la empresa**:  GEP es un grupo de empresas peruanas de transporte público en Lima, donde la integran Sfasa40, Las Flores18 y  Realidad Express03, la cual tiene como objetivo ofrecer un servicio de calidad.
  GEP aporta muy aparte del transporte al usuario, con un branding sobre ser ecoamigable. Ofrece a los usuarios poder utilizar una tarjeta recargable para el pago del pasaje en sus lineas o dando la opción de hacerlo aún sin tarjeta(en otras palabras pagando ni bien sube al transporte).
@@ -51,7 +53,7 @@ A partir del journey map se indentificará y se creará estrategias para los pun
 * Entrevistas [Link Drive](https://drive.google.com/open?id=1vnaxnEwmsOkipW4tgi-eYfAWQHFyk-Ex)
 * Encuestas [Resultados de encuestas](https://docs.google.com/spreadsheets/d/1oYhzy1EKBkhn_p6WH7NTPPfQ9eA5YnH5FnrmsGDynGo/edit) 
 
-## Síntesis y definición
+### Síntesis y definición
 * Affinity map
 
 ![affinityMaps](assets/documents/affinityMaps.jpg)

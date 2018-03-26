@@ -1,7 +1,7 @@
 # BusAltoke
 'BusAltoke' es una aplicación móvil de la empresa 'GEP', donde ayuda a los usuarios que usan de manera constante su servicio a saber la ruta que tienen sus buses y en que momento llegan a la parada indicada.
 
-![image](https://user-images.githubusercontent.com/30356026/37829566-7accb672-2e6d-11e8-8ccc-df0306fa06d3.png)
+![image](https://user-images.githubusercontent.com/30356026/37910130-633fdcc0-30d2-11e8-8dda-d2de24f3f8d4.png)
 
 
 ## Desarrollado para Laboratoria
